@@ -1,3 +1,5 @@
 Flask
-google-generativeai
+google-genai
 requests
+psycopg2-binary
+gunicorn
